@@ -1,6 +1,6 @@
 # Hi there, I'm Vincent Wachira 👋
 
-![GitHub Profile Banner]([https://www.africaoutlookmag.com/media/2022/07/victory-farms-share.png])
+![GitHub Profile Banner]([https://github.com/vicfarmsit/vicfarmsit/blob/main/Vince-GitHub-VF.png])
 
 ## About Me
 
