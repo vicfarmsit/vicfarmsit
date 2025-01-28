@@ -1,7 +1,5 @@
 # Hi there, I'm Vincent Wachira 👋
 
-![GitHub Profile Banner]([https://github.com/vicfarmsit/vicfarmsit/blob/main/Vince-GitHub-VF.png])
-
 ## About Me
 
 I'm a **hands-on IT leader** and **certified cloud architect (GCP)** based in Nairobi, Kenya. With a passion for building high-performing teams and delivering impactful technical solutions, I bring over a decade of experience in IT management, cloud infrastructure, and cybersecurity. I thrive on solving complex problems, driving operational efficiency, and leveraging technology to optimize processes and foster sustainable business growth.
